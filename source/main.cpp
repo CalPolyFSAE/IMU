@@ -12,7 +12,7 @@
 /* Project */
 
 #define SPIBUS 0
-#define SPICSPORT gpio::PortA
+#define SPICSPORT gpio::PortB // CS pin is PTB0
 #define SPICSPIN 0
 #define SPIBAUD 500000UL
 
