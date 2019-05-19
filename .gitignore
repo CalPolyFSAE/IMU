@@ -4,3 +4,6 @@ build/
 *.bin
 *.ipch
 *.code-workspace
+*.elf
+*.jdebug
+*.user

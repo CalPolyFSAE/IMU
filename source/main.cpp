@@ -63,7 +63,7 @@ int main(void) {
 
     gpio.set(PINRESET);
 
-    while(gpio.read(PINH_INTN);
+    while(gpio.read(PINH_INTN));
 
     while(1){
     }
